@@ -1,14 +1,16 @@
 # .streamlit/config.toml
+
 [theme]
 base = "light"
-# Primary accent color.
-primaryColor = "#D00F31"
 
-# Background color of the app.
-# backgroundColor = "#041E42"
+# Primary accent color
+primaryColor = "#F6A6C1"  # 파스텔 핑크
 
-# Background color used for most interactive widgets.
-# secondaryBackgroundColor = ""
+# Background color of the app
+backgroundColor = "#FFF9E6"  # 파스텔 크림 노랑
 
-# Color used for almost all text.
-# textColor = ""
+# Background color used for most interactive widgets
+secondaryBackgroundColor = "#FFF0F5"  # 연한 핑크
+
+# Color used for almost all text
+textColor = "#5C4B51"  # 부드러운 브라운
